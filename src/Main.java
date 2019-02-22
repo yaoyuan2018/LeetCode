@@ -15,8 +15,11 @@ public class Main {
         System.out.println(Arrays.toString(a.twoSum(arr,9)));*/
 
         //回文数解
-        int a = 123321;
+/*        int a = 123321;
         Palindrome_Number test = new Palindrome_Number();
-        System.out.println(test.IsPalindrome(a));
+        System.out.println(test.IsPalindrome(a));*/
+        String a = "([)]";
+        Valid_Parentheses test = new Valid_Parentheses();
+        test.isValid(a);
     }
 }
