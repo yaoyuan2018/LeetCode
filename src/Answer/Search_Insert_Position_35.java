@@ -24,11 +24,12 @@ public class Search_Insert_Position_35 {
         return left;
     }
 
+    //最原始方法--逐个比较
     public int searchInsert2(int[] nums, int target){
         for (int i = 0; i < nums.length; i++){
             if (target <= nums[i]) return i;
             }
             return nums.length;
         }
-    }
 }
+
