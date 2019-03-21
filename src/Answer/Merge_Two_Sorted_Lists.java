@@ -1,4 +1,4 @@
-/**
+package Answer; /**
  * @Author: Y_uan
  * @Date: 2019/2/22 16:03
  * @mail: yy494818027@163.com
@@ -12,10 +12,10 @@
 
 /**
  * Definition for singly-linked list.
- * public class ListNode{
+ * public class Answer.ListNode{
  *     int val;
- *     ListNode next;
- *     ListNode (int x){ val = x; }
+ *     Answer.ListNode next;
+ *     Answer.ListNode (int x){ val = x; }
  * }
  */
 public class Merge_Two_Sorted_Lists {
