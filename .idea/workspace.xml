@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75af11fe-2acb-41e9-b69a-9f8c18e7f10c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer/Remove_Duplicates_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Answer/Remove_Element_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review/Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer/Search_Insert_Position_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answer/strStr_28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Longest_Common_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Longest_Common_Prefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Merge_Two_Sorted_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Palindrome_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Reverse_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Roman_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Roman_To_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum_ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/TwoSum_ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answer/Valid_Parentheses.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,22 +28,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7871" />
+          <entry key="java" value="9097" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7871" />
+          <entry key="JAVA" value="9097" />
         </counts>
       </usages-collector>
     </session>
@@ -122,11 +110,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Answer/Remove_Element_27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="540">
+              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Answer/strStr_28.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Answer/Search_Insert_Position_35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -136,27 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Answer/Merge_Two_Sorted_Lists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Answer/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -191,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/Review/Valid_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/Answer/Remove_Duplicates_26.java" />
         <option value="$PROJECT_DIR$/src/Answer/Remove_Element_27.java" />
+        <option value="$PROJECT_DIR$/src/Answer/strStr_28.java" />
+        <option value="$PROJECT_DIR$/src/Answer/Search_Insert_Position_35.java" />
       </list>
     </option>
   </component>
@@ -241,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553153456884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553157146897" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -319,12 +306,12 @@
       <workItem from="1550798564151" duration="600000" />
       <workItem from="1550817768923" duration="5974000" />
       <workItem from="1552534664932" duration="141000" />
-      <workItem from="1553133830671" duration="6743000" />
+      <workItem from="1553133830671" duration="10429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29456000" />
+    <option name="totallyTimeSpent" value="33142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
@@ -477,8 +464,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Answer/Remove_Element_27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="540">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Answer/strStr_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Answer/Search_Insert_Position_35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
